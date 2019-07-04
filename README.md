@@ -159,4 +159,4 @@ form as an AJAX call.)
 
 ## License
 
-MIT © [GS](mailto:gaurav.shinde@sjsu.edu)
+Yilong
